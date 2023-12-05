@@ -1,0 +1,53 @@
+Extensive Analysis + Visualization with Python
+
+**Heart disease** or **Cardiovascular disease (CVD)** is a class of diseases that involve the heart or blood vessels. Cardiovascular diseases are the leading cause of death globally. This is true in all areas of the world except Africa. Together CVD resulted in 17.9 million deaths (32.1%) in 2015.  Deaths, at a given age, from CVD are more common and have been increasing in much of the developing world, while rates have declined in most of the developed world since the 1970s.
+
+So, in this kernel, I have conducted **Exploratory Data Analysis** or **EDA** of the heart disease dataset. **Exploratory Data Analysis** or **EDA** is a critical first step in analyzing a new dataset. The primary objective of EDA is to analyze the data for distribution, outliers and anomalies in the dataset. It enable us to direct specific testing of the hypothesis. It includes analysing the data to find the distribution of data, its main characteristics, identifying patterns and visualizations.  It also provides tools for hypothesis generation by visualizing and understanding the data through graphical representation.
+
+1. Introduction to EDA -:
+Several questions come to mind when we come across a new dataset.  The below list shed light on some of these questions:-
+•	What is the distribution of the dataset?
+•	Are there any missing numerical values, outliers or anomalies in the dataset?
+•	What are the underlying assumptions in the dataset?
+•	Whether there exists relationships between variables in the dataset
+•	How to be sure that our dataset is ready for input in a machine learning algorithm?
+•	How to select the most suitable algorithm for a given dataset?
+So, how do we get answer to the above questions? 
+The answer is **Exploratory Data Analysis**. It enable us to answer all of the above questions.
+
+ 2. Objectives of EDA -:
+The objectives of the EDA are as follows:-
+i. To get an overview of the distribution of the dataset.
+ii. Check for missing numerical values, outliers or other anomalies in the dataset.
+iii.Discover patterns and relationships between variables in the dataset.
+iv. Check the underlying assumptions in the dataset.
+
+3. Types of EDA -:
+
+EDA is generally cross-classified in two ways. First, each method is either non-graphical or graphical. Second, each method is either univariate or multivariate (usually bivariate).  The non-graphical methods provide insight into the characteristics and the distribution of the variable(s) of interest. So, non-graphical methods involve calculation of summary statistics while graphical methods include summarizing the data diagrammatically.
+There are four types of exploratory data analysis (EDA) based on the above cross-classification methods. Each of these types of EDA are described below:-
+
+
+ i. Univariate non-graphical EDA
+The objective of the univariate non-graphical EDA is to understand the sample distribution and also to make some initial conclusions about population distributions. Outlier detection is also a part of this analysis.
+
+ii. Multivariate non-graphical EDA
+Multivariate non-graphical EDA techniques show the relationship between two or more variables in the form of either cross-tabulation or statistics.
+
+
+iii. Univariate graphical EDA
+In addition to finding the various sample statistics of univariate distribution (discussed above), we also look graphically at the distribution of the sample.  The non-graphical methods are quantitative and objective. They do not give full picture of the data. Hence, we need graphical methods, which are more qualitative in nature and presents an overview of the data. 
+
+ iv. Multivariate graphical EDA
+There are several useful multivariate graphical EDA techniques, which are used to look at the distribution of multivariate data. These are as follows:-
+
+- Side-by-Side Boxplots
+- Scatterplots
+- Heat Maps and 3-D Surface Plots
+
+
+Enough of theory, now let the journey begin.
+
+
+----------------------------plz check the code---------------------------
+
